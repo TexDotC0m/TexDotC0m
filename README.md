@@ -8,8 +8,8 @@
 <h2 style = "color: `#F76A31`;"> ☆Sobre mim: </h2>
 </body>
  <p> - Desenvolvedor apaixonado por tecnologia, sempre aprendendo algo novo e criando projetos legais! </p>
-  <p>- Interessado em: Cibersegurança e DevOps </p>
-   <p>- Sempre participando de maratonas de programação e hackatons </p>
+  <p>- Meu principal interesse de estudo é Cybersegurança na área de Segurança Ofensiva e Segurança em Nuvem e DevSecOps. </p>
+   <p>- Sempre participando de maratonas de programação e hackatons para assim aprender mais sobre outras tecnologias e como ultiliza-las </p>
 </div>
 
  <div align="center"> 
@@ -25,7 +25,7 @@
 </p>
 
   <h2  style = "color: blue;" > ☆Habilidades: </h2>
-   <p> - Linux (Kali, Arch, Ubuntu, Fedora kde)
+   <p> - Desenvolver e navegar em ambientes Linux (Kali, Arch, Ubuntu, Fedora kde)
    <p> - Docker
     
  <h2  style = "color: blue;" > ☆Obrigado! </h2>
